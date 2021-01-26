@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8AAE-282B
+
+ Directory of C:\devops\gitrepo
+
+01/26/2021  03:09 PM    <DIR>          .
+01/26/2021  03:09 PM    <DIR>          ..
+01/26/2021  02:54 PM               379 b.txt
+01/26/2021  03:09 PM                 0 c.txt
+01/26/2021  08:37 AM                11 test.txt
+               3 File(s)            390 bytes
+               2 Dir(s)  805,572,243,456 bytes free
